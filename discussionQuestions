@@ -1,0 +1,35 @@
+Recursion
+
+In your own words, what is Recursion?
+recursion occurs when a function calls itself in the process of excuting 
+
+
+Why is it necessary to have a Base Case?
+to prevent inifnite loops
+
+
+Graphs
+What is a Graph?
+How is a Graph different from a Tree?
+a child in a tree can only have one parent, they also can't split and then rejoin at a lower node
+
+Give an example of somthing that would be good to model with a Graph.
+a graph showing all the clubs the students of a college were part of (a student can be part of mulitple clubs)
+
+Sorting
+Describe in words how the Bubble Sort algorithm works.
+The algorithm reads left to right. The item on the far left is compared to the next index, if it is greater they switch. The item bubbles up the list and then the process repeats itself until everything is sorted. 
+
+Describe in words how the Merge Sort algorithm works.
+its takes two sorted lists and compares the current index of the first list to the current index of the second list to determine which item is greater. All items are compared until the two lists are sorted into one list. 
+
+Describe in words how the Quick Sort algorithm works.
+There are two markers in a list which get compared to each other. If the left marker is greater than the right marker, they swap. The algorithm continues until the entire list is sorted 
+
+
+Git Branching
+Give an instance when you would use git branching.
+when making changes to a project without wanting to affect the master branch 
+
+What is a pull request?
+a pull request is when you take a projects code and save in locally on your computer 
